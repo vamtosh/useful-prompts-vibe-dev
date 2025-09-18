@@ -30,3 +30,15 @@ I dont want to add any database . I only want the app to demonstrate the API cal
 ------------------------------------------------------------------------------------------------
 -> Refine idea using v0.dev as needed
 ------------------------------------------------------------------------------------------------
+
+
+Tavily
+
+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
+
+
+
+
+OpenAI
+
+[API_KEY_REMOVED_FOR_SECURITY]
